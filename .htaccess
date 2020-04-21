@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{http_host} ^phpmentors.com [NC]
+RewriteRule ^(.*)$ http://www.phpmentors.com/$1 [R=301,L]
