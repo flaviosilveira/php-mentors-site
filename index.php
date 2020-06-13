@@ -361,7 +361,7 @@
 					<!-- Profile -->
 					<div class="faq-box">
 						<div class="question-q-box"><i class="fa fa-certificate"></i></div>
-						<h3 class="question text-white mb-0" data-wow-delay=".1s">Ever Pot</h3>
+						<h3 class="question text-white mb-0" data-wow-delay=".1s">Evert Pot</h3>
 						<p class="answer">
 							<a class="fa fa-twitter" target="_blank" href="https://twitter.com/evertp">@evertp</a>
 							<a class="fa fa-github" target="_blank" href="https://github.com/evert">@evert</a>
