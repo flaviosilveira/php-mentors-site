@@ -753,6 +753,15 @@
 							<a class="fa fa-github" target="_blank" href="https://github.com/afilina">@afilina</a>
 						</p>
 					</div>
+					<!-- Profile -->
+					<div class="faq-box">
+						<div class="question-q-box"><i class="fa fa-certificate"></i></div>
+						<h3 class="question text-white mb-0" data-wow-delay=".1s">Shawn Mayzes</h3>
+						<p class="answer">
+							<a class="fa fa-twitter" target="_blank" href="https://twitter.com/smayzes">@smayzes</a>
+							<a class="fa fa-github" target="_blank" href="https://github.com/smayzes">@smayzes</a>
+						</p>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -879,14 +888,14 @@
 			</div>
 			<ul style="float:left; width:50%; border:solid;">
 				<h4>Hardware, Machine, accessories</h4>
-				<li>Macbook  => 30 People</li>
+				<li>Macbook  => 31 People</li>
 				<li>Keyboard => 18 People</li>
 				<li>Headphones => 9 People</li>
 				<li>Dell => 8 People</li>
 				<li>Microphone => 4 People</li>
 				<li>13 inch => 4 People</li>
 				<li>16GB RAM => 4 People</li>
-				<li>15 inch => 3 People</li>
+				<li>15 inch => 4 People</li>
 				<li>Ipad  => 2 People</li>
 				<li>Thinkpad => 2 People</li>
 				<li>32 inch => 2 People</li>
@@ -918,7 +927,7 @@
 
 			<ul style="float:left; width:80%; border:solid;">
 				<h4>Editors / IDEs</h4>
-				<li>PHPStorm => 30 People</li>
+				<li>PHPStorm => 31 People</li>
 				<li>IDE => 18 People</li>
 				<li>Sublime => 12 People</li>
 				<li>VIM => 12 People</li>
@@ -944,8 +953,8 @@
 				<li>Slack => 16 People</li>
 				<li>Kubernetes  => 15 People</li>
 				<li>Terminal => 14 People</li>
-				<li>PHPUnit => 12 People</li>
-				<li>phpcs => 11 People</li>
+				<li>PHPUnit => 13 People</li>
+				<li>phpcs => 12 People</li>
 				<li>ELK  => 10 People</li>
 				<li>Travis => 9 People</li>
 				<li>Scrutinizer => 9 People</li>
@@ -954,14 +963,14 @@
 				<li>Mercurial  => 9 People</li>
 				<li>GitLab => 8 People</li>
 				<li>Jenkins => 8 People</li>
-				<li>phpmd => 8 People</li>
+				<li>phpmd => 9 People</li>
 				<li>Trello => 8 People</li>
 				<li>iTerm => 7 People</li>
 				<li>Behat => 7 People</li>
 				<li>Composer  => 7 People</li>
 				<li>Selenium => 6 People</li>
-				<li>Code Climate => 6 People</li>
-				<li>Sentry => 6 People</li>
+				<li>Code Climate => 7 People</li>
+				<li>Sentry => 7 People</li>
 				<li>Jira => 6 People</li>
 				<li>SSH => 5 People</li>
 				<li>phploc => 5 People</li>
@@ -1063,11 +1072,11 @@
 
 			<ul style="float:left; width:50%; border:solid;">
 				<h4>Environments / Hosting</h4>
-				<li>Docker  => 43 People</li>
+				<li>Docker  => 44 People</li>
 				<li>Vagrant  => 18 People</li>
 				<li>Serverless => 16 People</li>
-				<li>AWS => 11 People</li>
-				<li>Laravel Valet => 3 People</li>
+				<li>AWS => 12 People</li>
+				<li>Laravel Valet => 4 People</li>
 				<li>Heroku => 3 People</li>
 				<li>VirtualBox => 2 People</li>
 				<li>Digital Ocean  => 2 People</li>
@@ -1077,7 +1086,7 @@
 			<ul style="float:left; width:50%; border:solid;">
 				<h4>Concepts / Techniques</h4>
 				<li>Continuous Integration => 27 People</li>
-				<li>TDD => 23 People</li>
+				<li>TDD => 24 People</li>
 				<li>Continuous Delivery => 19 People</li>
 				<li>Git branch  => 18 People</li>
 				<li>Code review => 17 People</li>
@@ -1097,7 +1106,7 @@
 				<li>Big-O Notation => 4 People</li>
 				<li>User Stories => 4 People</li>
 				<li>PSRs => 4 People</li>
-				<li>Doc Blocks => 3 People</li>
+				<li>Doc Blocks => 4 People</li>
 				<li>Pair Programming => 3 People</li>
 				<li>Proof of Concept  => 3 People</li>
 				<li>Git Hooks  => 2 People</li>
@@ -1121,8 +1130,8 @@
 			<ul style="float:left; width:50%; border:solid;">
 				<h4>Other languages / Technologies / CMSs / Frameworks / Structures</h4>
 				<li>JavaScript => 28 People</li>
-				<li>Laravel => 22 People</li>
-				<li>WordPress => 20 People</li>
+				<li>Laravel => 23 People</li>
+				<li>WordPress => 21 People</li>
 				<li>Ruby on Rails => 16 People</li>
 				<li>Python => 16 People</li>
 				<li>Symfony => 15 People</li>
@@ -1140,7 +1149,7 @@
 				<li>Magento  => 5 People</li>
 				<li>Cobol => 5 People</li>
 				<li>Json => 5 People</li>
-				<li>.NET => 4 People</li>
+				<li>.NET => 5 People</li>
 				<li>Swagger => 4 People</li>
 				<li>CSS => 3 People</li>
 				<li>Pascal => 3 People</li>
@@ -1209,7 +1218,7 @@
 				<li>Rock => 6 People</li>
 				<li>Heavy Metal => 3 People</li>
 				<li>Itunes  => 3 People</li>
-				<li>Apple Music => 2 People</li>
+				<li>Apple Music => 3 People</li>
 				<li>Eclectic  => 2 People</li>
 				<li>Classic Music => 2 People</li>
 				<li>Beethoven => 2 People</li>
@@ -1275,6 +1284,7 @@
 				<li><i>Life has become immeasurably better since I have been forced to stop taking it seriously</i></li>
 				<li><i>Logs that are hard to read may as well not exist</i></li>
 				<li><i>If you know the logic, you can master any programming language</i></li>
+				<li><i>Do what you love, and you’ll never work a day in your life</i></li>
 			</ul>
 			</div>
 			<p class="text-center">Get a full chapter as preview on <a href="https://leanpub.com/php-mentors">Leanpub</a></p>
